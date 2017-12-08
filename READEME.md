@@ -1,2 +1,0 @@
-
-see: http://dubbo.io/
